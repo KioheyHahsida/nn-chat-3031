@@ -17,7 +17,7 @@
     "pug": "3.0.2",
     "sequelize": "6.5.0"
   },
-  "engines":{
+  "engines": {
     "node": ">=16"
   }
 }
